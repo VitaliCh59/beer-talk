@@ -1,0 +1,19 @@
+.main {
+    display: grid;
+    grid-template-rows: 15vh 80vh 5vh;
+}
+
+.header {
+    background-color: bisque;
+    // height: 80px;
+}
+
+.content {
+    // min-height: 100vh;
+    // height: 500px;
+}
+
+.footer {
+    background-color: aquamarine;
+    // height: 50px;
+}
